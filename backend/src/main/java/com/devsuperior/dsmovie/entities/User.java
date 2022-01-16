@@ -1,4 +1,4 @@
-package com.devsuperior.dsmovie.config.entities;
+package com.devsuperior.dsmovie.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
